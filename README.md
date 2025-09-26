@@ -23,7 +23,7 @@ Bu proje, sadece bir nesne tespit sistemi değil; detection + tracking + anomaly
 
 ## 🗂 Dataset
 
-**Kullanılan Dataset:** [VisDrone Dataset](https://www.kaggle.com/datasets/kushagrapandya/visdr)
+**Kullanılan Dataset:** [VisDrone Dataset](https://www.kaggle.com/datasets/kushagrapandya/visdrone-dataset)
 
 * Drone görüntülerinde yer alan çeşitli nesneleri içerir
 * Train / Validation / Test olarak ayrılmıştır
@@ -118,14 +118,16 @@ Drone Görüntüsü --> YOLOv8 --> Bounding Box + Sınıf --> DeepSORT --> Nesne
 * Anomali tespiti ve hareket tahmini ile ileri seviye analiz sağlandı
 * Edge AI entegrasyonu ile gerçek zamanlı drone uygulamalarına uygun
 
----
 
-## 🔗 Kaggle Notebook
-
-[Kaggle Notebook Linki](https://www.kaggle.com/your-notebook-link)
 
 ---
 
 ## 🎯 Özet
 
 Bu proje ile **drone tabanlı nesne tespiti ve takip sistemleri** geliştirilmiş, ileri veri augmentasyonları, model optimizasyonu ve explainability yöntemleri uygulanmıştır. Proje, güvenlik, trafik, arama-kurtarma ve otonom drone sistemleri gibi farklı alanlarda uygulanabilir.
+
+---
+
+## 🔗 Kaggle Notebook
+
+[Kaggle Notebook Linki]([https://www.kaggle.com/your-notebook-link](https://www.kaggle.com/code/damlaalper/deeplearningbootcamp))
